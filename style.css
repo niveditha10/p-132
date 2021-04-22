@@ -1,0 +1,36 @@
+body{
+    background-color: white;
+}
+
+#heading{
+    background-color:#2f3330;
+    width:98%;
+    text-align:left;
+    color:white;
+    top:0;
+    margin:0px;
+   margin:0px;
+    position:sticky;
+    font-size:30px;
+    border-radius:2px;
+    padding:7px;
+
+}
+
+#heading_img{
+    width:1100px;
+    height:500px;
+    margin-top:20px;
+}
+
+.images{
+    width:270px;
+    height:270px;
+    margin:7px;
+}
+
+#sub_heading{
+font-size:27px;
+color:black;
+border-bottom: 0.5px solid black;
+}
